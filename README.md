@@ -1,4 +1,4 @@
-# MQTT Hub
+# MQTT Hudb
 
 Turn your Homey into a HUB and let external applications discover & control all your connected devices.
   
